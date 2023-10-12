@@ -1,0 +1,25 @@
+{
+  "name": "vision-surfer",
+  "version": "1.0.0",
+  "description": "A surfing game with your camera",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Central-Programming-Club/vision-surfer.git"
+  },
+  "author": "Central Programming Club",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Central-Programming-Club/vision-surfer/issues"
+  },
+  "homepage": "https://github.com/Central-Programming-Club/vision-surfer#readme",
+  "dependencies": {
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.11"
+  }
+}
